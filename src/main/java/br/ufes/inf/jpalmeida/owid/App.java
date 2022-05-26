@@ -15,7 +15,8 @@ public class App {
         System.out.println(asciiArt1);
         String asciiArt2 = FigletFont.convertOneLine("world");
         System.out.println(asciiArt2);
-
+        System.out.println("teste");
+        
         
 
         /*
